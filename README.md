@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="banner.jpeg" width="400" alt="banner"/>
+  <img src="banner.jpeg" width="800" alt="banner"/>
 </p>
 ---
 
