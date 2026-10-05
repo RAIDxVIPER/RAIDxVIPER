@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ronit 👋</h1>
+<h1 align="center">Hi, I'm Ronit 🪷</h1>
 
 <p align="center">Electronics @ VJTI Mumbai · AI/ML · Agentic AI</p>
 
