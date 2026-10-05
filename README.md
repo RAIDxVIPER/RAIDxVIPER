@@ -16,8 +16,16 @@
 
 ## About
 
-Fourth-year Electronics Engineering student at VJTI, minoring in AI/ML. Two-time patent holder.
+Electronics engineering student at VJTI Mumbai (minor in AI/ML), turning hardware thinking and machine learning into solutions for real problems: drug interactions, crop diseases, satellite imagery and financial decisions.
 
+I don't build models to sit in notebooks. I build them to be used.
+
+### 🏆 Patents
+
+- **Hand sanitizer composition**: Government of India patent, filed while I was still in 10th grade.
+- **An Innovative Bench with a Mobile Charging System**: second patent, filed in final year.
+
+Two patents before graduating, and still building.
 
 
 ## Tech Stack
