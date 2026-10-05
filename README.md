@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ronit 👋</h1>
 
-<p align="center">EXTC @ VJTI Mumbai · AI/ML · Full Stack</p>
+<p align="center">Electronics @ VJTI Mumbai · AI/ML · Agentic AI</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ronitchoube/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
