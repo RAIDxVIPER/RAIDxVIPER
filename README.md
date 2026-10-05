@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVidGR4dWV3dTE1b3h0c3NveWdnYzFzeDR3dW1kZHBmcXdtMmpsNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8qXJTU5oEhQZO/giphy.gif" width="200" alt="banner gif"/>
+  <img src=r"C:\Users\ronit\OneDrive\Desktop\RAIDxVIPER\download.jpeg" width="200" alt="banner gif"/>
 </p>
 
 ---
