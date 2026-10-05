@@ -44,10 +44,10 @@ Fourth-year Electronics Engineering student at VJTI, minoring in AI/ML. Two-time
 ### `$ git log --stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&count_private=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&langs_count=6&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FFD700" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RAIDxVIPER&show_icons=true&count_private=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAIDxVIPER&layout=compact&langs_count=6&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FFD700" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&stroke=FFFFFF30&border=FFD700" />
+  <img src="https://streak-stats.demolab.com?user=RAIDxVIPER&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&stroke=FFFFFF30&border=FFD700" />
 </p>
