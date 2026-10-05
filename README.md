@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="banner.jpeg" width="800" alt="banner"/>
+  <img src="banner.jpeg" width="600" alt="banner"/>
 </p>
 
 ## who am i?
