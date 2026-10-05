@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src=r"C:\Users\ronit\OneDrive\Desktop\RAIDxVIPER\download.jpeg" width="200" alt="banner gif"/>
+  <img src="banner.jpeg" width="200" alt="banner"/>
 </p>
 
 ---
