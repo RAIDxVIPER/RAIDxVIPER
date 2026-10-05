@@ -1,4 +1,10 @@
-<h1 align="center">Hi, I'm Ronit 🪷</h1>
+<h1 align="center">Hi, I'm Ronit </h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=600&height=60&lines=ML+Engineer;Deep+Learning+Developer;Computer+Vision+Enthusiast;Patent+Holder+%C3%97+2" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">Electronics @ VJTI Mumbai · AI/ML · Agentic AI</p>
 
@@ -14,7 +20,7 @@
 
 ---
 
-## whoami
+## who am i?
 
 Electronics engineering student at VJTI Mumbai (minor in AI/ML), turning hardware thinking and machine learning into solutions for real problems: drug interactions, crop diseases, satellite imagery and financial decisions.
 
@@ -34,7 +40,7 @@ Two patents before graduating, and still building.
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-222222?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
 **ML / Deep Learning**
